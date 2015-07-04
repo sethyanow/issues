@@ -1,4 +1,6 @@
-%{"hackney": {:hex, :hackney, "1.1.0"},
+%{"earmark": {:hex, :earmark, "0.1.17"},
+  "ex_doc": {:git, "git://github.com/elixir-lang/ex_doc.git", "f319194c10d35139f19778386da2366d454bf0a9", []},
+  "hackney": {:hex, :hackney, "1.1.0"},
   "httpoison": {:hex, :httpoison, "0.6.2"},
   "idna": {:hex, :idna, "1.0.2"},
   "jsx": {:hex, :jsx, "2.6.1"},
